@@ -1,1 +1,1 @@
-PASTE YOUR PROXY HERE
+proxy.ufc.br:8080:luthierre:878455201 

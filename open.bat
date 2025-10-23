@@ -1,9 +1,10 @@
 @echo off
 set PATH=%PATH%;C:\Python34
-title CREDITCARD CHECKER V5.5 PYTHON
+title CREDITCARD CHECKER James
 :runez
 
 python cc.py
 pause
 cls
+
 goto runez
